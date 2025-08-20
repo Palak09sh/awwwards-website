@@ -6,7 +6,7 @@ The goal was to replicate the minimalistic and modern design aesthetic of Awwwar
 
 HTML5 – Structure
 
-CSS3 – Styling, Flexbox, Grid
+CSS3 – Styling, Flexbox
 
 JavaScript (ES6) – Interactivity
 
@@ -14,9 +14,11 @@ GSAP (GreenSock Animation Platform) – Animations
 
 Installation:
 
-# Clone the repository
+clone the repo:
+
 https://github.com/Palak09sh/awwwards-website.git
 
-# Navigate to the project folder
+navigate to the project:
+
 cd awwwards-website
 
