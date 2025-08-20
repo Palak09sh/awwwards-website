@@ -12,4 +12,6 @@ JavaScript (ES6) – Interactivity
 
 GSAP (GreenSock Animation Platform) – Animations
 
-Clone the repo and run locally:
+Clone the repo :
+
+https://github.com/Palak09sh/awwwards-website.git
