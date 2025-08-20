@@ -12,4 +12,4 @@ JavaScript (ES6) – Interactivity
 
 GSAP (GreenSock Animation Platform) – Animations
 
-Live Demo:
+Clone the repo and run locally:
